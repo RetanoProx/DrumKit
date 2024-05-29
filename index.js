@@ -62,7 +62,7 @@ function makeSound(key) {
             tom4.play();
             break;
             
-        default: console.log(button.innerHTML);
+        default: console.log(buttonInnerHTML);
     }
 }
 
